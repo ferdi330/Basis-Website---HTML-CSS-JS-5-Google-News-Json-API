@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+}
+
+.search {
+  position: absolute;
+  top: 5%;
+  left: 40%;
+  border: 2px solid rgba(255, 0, 0, 0.432);
+  padding: 5px;
+  background-color: blanchedalmond;
+}
+
+
+.container {
+  position: absolute;
+  top: 20%;
+  left: 25%;  
+  border: 2px solid rgba(255, 0, 0, 0.445);
+  background-color: blanchedalmond;
+}
+
+
+.red {
+    background-color: rgba(165, 185, 139, 0.424);
+}
